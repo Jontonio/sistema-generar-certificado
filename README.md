@@ -1,4 +1,4 @@
-# 📘 Sistema de Gestión con Laravel - Roles y Permisos
+# 📘 Sistema de Gestión de generacion de certificados
 
 Sistema completo desarrollado en **Laravel 11** y **PHP 8.2+** que incluye gestión de áreas, roles, permisos, usuarios y generación de certificados digitales con código QR único.
 
